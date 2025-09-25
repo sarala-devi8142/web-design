@@ -18,8 +18,9 @@
  -HTML5
  -CSS3
  
- ##  LinkedIn : https://www.linkedin.com/in/sarala-madugundu/
-
-# 👤 Author:
+ # 👤 Author:
   Name: Sarala
+
+ ## LinkedIn : https://www.linkedin.com/in/sarala-madugundu/
+
 
